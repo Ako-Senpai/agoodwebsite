@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "Contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 28,
     "versionPublish": "4.3.0",
@@ -544,7 +544,7 @@
         }
       ]
     },
-    "page3.html": {
+    "Newspaper.html": {
       "settings": {
         "title": "Newspaper",
         "meta_descr": "",
@@ -1081,7 +1081,7 @@
         }
       ]
     },
-    "page4.html": {
+    "Contact.html": {
       "settings": {
         "title": "Contact us",
         "meta_descr": "",
