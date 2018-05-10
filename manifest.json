@@ -1,0 +1,22 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Shrimp n Prawn",
+    "scope": "/agoodwebsite/",
+    "display": "browser",
+    "start_url": "https://ako-senpai.github.io/agoodwebsite/",
+    "short_name": "SnP",
+    "theme_color": "transparent",
+    "description": "buy something here",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/agoodwebsite/assets/images/drawing-217x211.png",
+            "type": "image/png",
+            "sizes": "217x211"
+        }
+    ]
+}
