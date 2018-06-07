@@ -3,7 +3,7 @@
     "lang": "en",
     "name": "Shrimp n Prawn",
     "scope": "/agoodwebsite/",
-    "display": "browser",
+    "display": "fullscreen",
     "start_url": "https://ako-senpai.github.io/agoodwebsite/",
     "short_name": "SnP",
     "theme_color": "transparent",
